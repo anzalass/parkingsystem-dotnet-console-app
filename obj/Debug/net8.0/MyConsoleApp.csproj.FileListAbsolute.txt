@@ -1,0 +1,14 @@
+/home/enigma/MyConsoleApp/bin/Debug/net8.0/MyConsoleApp
+/home/enigma/MyConsoleApp/bin/Debug/net8.0/MyConsoleApp.deps.json
+/home/enigma/MyConsoleApp/bin/Debug/net8.0/MyConsoleApp.runtimeconfig.json
+/home/enigma/MyConsoleApp/bin/Debug/net8.0/MyConsoleApp.dll
+/home/enigma/MyConsoleApp/bin/Debug/net8.0/MyConsoleApp.pdb
+/home/enigma/MyConsoleApp/obj/Debug/net8.0/MyConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+/home/enigma/MyConsoleApp/obj/Debug/net8.0/MyConsoleApp.AssemblyInfoInputs.cache
+/home/enigma/MyConsoleApp/obj/Debug/net8.0/MyConsoleApp.AssemblyInfo.cs
+/home/enigma/MyConsoleApp/obj/Debug/net8.0/MyConsoleApp.csproj.CoreCompileInputs.cache
+/home/enigma/MyConsoleApp/obj/Debug/net8.0/MyConsoleApp.dll
+/home/enigma/MyConsoleApp/obj/Debug/net8.0/refint/MyConsoleApp.dll
+/home/enigma/MyConsoleApp/obj/Debug/net8.0/MyConsoleApp.pdb
+/home/enigma/MyConsoleApp/obj/Debug/net8.0/MyConsoleApp.genruntimeconfig.cache
+/home/enigma/MyConsoleApp/obj/Debug/net8.0/ref/MyConsoleApp.dll
